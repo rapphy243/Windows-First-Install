@@ -1,5 +1,5 @@
 # Windows-First-Install
- A list of useful links and utilities to download when first installing Windows.
+ A list of useful links and utilities I like to download when first installing Windows.
 
 
 ## First Install Applications
